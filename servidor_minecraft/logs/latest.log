@@ -3,3 +3,25 @@
 [00:28:11] [Server thread/INFO]: atrabastruca has made the advancement [Ice Bucket Challenge]
 [00:33:34] [Server thread/INFO]: Teleported atrabastruca to IngCucaneitor
 [00:37:43] [Server thread/INFO]: atrabastruca has made the advancement [We Need to Go Deeper]
+[00:43:25] [Server thread/INFO]: Teleported atrabastruca to IngCucaneitor
+[00:47:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-521, y=64, z=-338} jb{x=-520, y=62, z=-339}
+[00:47:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-521, y=64, z=-338} jb{x=-520, y=62, z=-339}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-520, y=64, z=-339} jb{x=-520, y=62, z=-339}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-520, y=65, z=-339} jb{x=-520, y=62, z=-339}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-519, y=65, z=-339} jb{x=-520, y=62, z=-339}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-517, y=65, z=-341} jb{x=-517, y=62, z=-341}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-517, y=65, z=-341} jb{x=-517, y=62, z=-341}
+[00:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-517, y=65, z=-341} jb{x=-517, y=62, z=-341}
+[00:47:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=64, z=-347} jb{x=-514, y=62, z=-347}
+[00:47:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-347} jb{x=-514, y=62, z=-347}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-347} jb{x=-514, y=62, z=-347}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-347} jb{x=-514, y=62, z=-347}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-347} jb{x=-514, y=62, z=-347}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=64, z=-346} jb{x=-514, y=62, z=-347}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-349} jb{x=-513, y=62, z=-349}
+[00:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-514, y=65, z=-349} jb{x=-513, y=62, z=-349}
+[00:50:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:50:45] [Server thread/INFO]: dificulty hard<--[HERE]
+[00:51:10] [Server thread/INFO]: The difficulty has been set to Hard
+[00:53:27] [Server thread/INFO]: atrabastruca lost connection: Disconnected
+[00:53:27] [Server thread/INFO]: atrabastruca left the game
