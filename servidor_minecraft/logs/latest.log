@@ -34,3 +34,5 @@
 [01:59:06] [Server thread/INFO]: IngCucaneitor was shot by Skeleton
 [02:11:41] [Server thread/INFO]: Villager cuf['Librarian'/812, l='ServerLevel[world]', x=-502.50, y=65.00, z=-299.30] died, message: 'Librarian was slain by Zombie Villager'
 [02:28:10] [Server thread/INFO]: Villager cuf['Fletcher'/771, l='ServerLevel[world]', x=-502.70, y=66.00, z=-289.30] died, message: 'Fletcher was slain by Zombie'
+[02:46:43] [Server thread/INFO]: Villager cuf['Librarian'/3591, l='ServerLevel[world]', x=-502.31, y=66.00, z=-299.69] died, message: 'Librarian was slain by Zombie Villager'
+[02:46:53] [Server thread/INFO]: Villager cuf['Librarian'/770, l='ServerLevel[world]', x=-500.47, y=66.00, z=-299.68] died, message: 'Librarian was slain by Zombie Villager'
