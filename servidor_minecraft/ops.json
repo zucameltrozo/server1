@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8c9d22db-576c-3128-aa1e-5f8fbcf6c0df",
+    "name": "IngCucaneitor",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
