@@ -1592,27 +1592,21 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-10 03:35:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-10 03:23:51 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-08-10 03:38:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-08-10 03:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-10 03:35:16 +0000"
     },
     "done": true
   },
@@ -1627,6 +1621,12 @@
       "has_wheat": "2025-08-10 03:36:09 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-10 03:38:45 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
